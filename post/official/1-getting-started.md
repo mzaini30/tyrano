@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Welcome to TyranoBuilder!
+# Selamat Datang di TyranoBuilder!
 
-In this tutorial we'll run through the steps to create your own high quality visual novels or sound novels by making a simple sample game!
+Dalam tutorial ini kita akan melalui langkah-langkah untuk membuat novel visual berkualitas tinggi atau novel yang bagus dengan membuat contoh permainan sederhana!
 
-# Install and Run TyranoBuilder
+# Install dan Run TyranoBuilder
 
-If you haven't already, purchase TyranoBuilder (Windows and MacOS versions are available) from the Steam Store at the below link:
+Jika Anda belum memilikinya, belilah versi TyranoBuilder (versi Windows dan MacOS yang tersedia) dari Steam Store di tautan di bawah ini:
 
 http://store.steampowered.com/app/345370
 
