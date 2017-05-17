@@ -1,0 +1,20 @@
+.garis2 {
+    margin-top: 0;
+}
+
+.isi {
+    width: 80%;
+    margin: auto;
+}
+
+.isi p {
+    font-size: 16px;
+}
+
+a {
+    color: inherit;
+}
+
+.link a {
+    text-decoration: underline;
+}
