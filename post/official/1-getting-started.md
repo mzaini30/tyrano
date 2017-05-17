@@ -18,11 +18,11 @@ Lengkapi proses instalasi via Steam client, jalankan programnya, dan saat anda m
 
 # Membuat Proyek Game Baru
 
-We'll kick things off by creating a new game project.
+Kita akan memulainya dengan membuat proyek permainan baru.
 
-Click the 'New Project' button at the top left of the above screen to move to the 'Create New Project' screen, and let's give our new project a name.
+Klik tombol 'New Project' di kiri atas layar di atas untuk beralih ke layar 'Create New Project', dan mari berikan nama proyek baru kita.
 
-We'll call this project 'MyGame'. Enter the name in the form as below and press the 'Next' button.
+Kita akan memanggil proyek ini 'MyGame'. Masukkan nama dalam bentuk seperti di bawah ini dan tekan tombol 'Next'.
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2.jpg)
 
