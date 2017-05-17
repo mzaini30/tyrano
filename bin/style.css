@@ -1,4 +1,8 @@
+img {
+    max-width: 100%;
+}
+
 .isi h1 {
-	font-size: 14px;
-	font-weight: bold;
+    font-size: 14px;
+    font-weight: bold;
 }
