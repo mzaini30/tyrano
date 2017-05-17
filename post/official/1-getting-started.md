@@ -10,13 +10,13 @@ Dalam tutorial ini kita akan melalui langkah-langkah untuk membuat novel visual 
 
 Jika Anda belum memilikinya, belilah versi TyranoBuilder (versi Windows dan MacOS yang tersedia) dari Steam Store di tautan di bawah ini:
 
-http://store.steampowered.com/app/345370
+<http://store.steampowered.com/app/345370>
 
-Complete the installation process via the Steam client, run the program, and when you see the below screen, we are ready to go! Easy!
+Lengkapi proses instalasi via Steam client, jalankan programnya, dan saat anda melihat layar di bawah ini, kita siap untuk menggunakannya! Mudah!
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t1.jpg)
 
-# Create a New Game Project
+# Membuat Proyek Game Baru
 
 We'll kick things off by creating a new game project.
 
