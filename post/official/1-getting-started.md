@@ -26,7 +26,7 @@ Kita akan memanggil proyek ini 'MyGame'. Masukkan nama dalam bentuk seperti di b
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2.jpg)
 
-Selanjutnya, kita akan memilih jenis permainan yang ingin kita buat. Dua jenis permainan dasar di TyranoBuilder adalah Novel Novel dan Novel Suara. Untuk proyek ini, kami ingin memilih 'Visual Novel', jadi langsung saja klik 'Next'.
+Selanjutnya, kita akan memilih jenis permainan yang ingin kita buat. Dua jenis permainan dasar di TyranoBuilder adalah Novel Novel dan Novel Suara. Untuk proyek ini, kita ingin memilih 'Visual Novel', jadi langsung saja klik 'Next'.
 
 Pada layar ukuran jendela, pilih 'Landscape (960 × 640)'. Ukuran ini bekerja baik untuk PC dan smartphone. Jika Anda lebih suka membuat game contoh sebagai game smartphone dalam orientasi potrait, pilih 'Portrait (640 × 960)'
 
@@ -34,18 +34,9 @@ Klik 'Next' dan Anda akan melihat beberapa opsi untuk pengaturan permainan.
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t5.jpg)
 
-Let's leave these unchecked for now and click the 'Create Project' button.
+Biarkan saja ini tidak dicentang untuk saat ini dan klik tombol 'Buat Proyek'.
 
-Once the project is created, the Game Editor opens and we're ready to start crafting our game!
+Begitu proyek dibuat, Editor Game dibuka dan kita siap untuk mulai menyusun permainan kita!
 
-All right! We're ready to start making our game! To the next chapter!
-Please Note! The tutorial is frequently updated! Stop by again for new sections and edits!
-The Basics
-
-Jangan biarkan ini tidak dicentang untuk saat ini dan klik tombol 'Buat Proyek'.
-
-Begitu proyek dibuat, Editor Game dibuka dan kami siap untuk mulai menyusun permainan kami!
-
-Baiklah! Kami siap untuk mulai membuat game kami! Ke bab berikutnya
+Baiklah! kita siap untuk mulai membuat game kita! Ke bab berikutnya!
 Tolong dicatat! Tutorial ini sering diperbarui! Mampir lagi untuk bagian dan suntingan baru!
-Dasar
