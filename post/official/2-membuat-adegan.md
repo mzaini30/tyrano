@@ -2,40 +2,40 @@
 layout: default
 ---
 
-# Create a Scene
+# Buat sebuah Scene
 
-In this chapter we’ll see how to create a scene in our game, but first let’s take a look at over the basics of the Game Editor.
+Dalam bab ini kita akan melihat bagaimana membuat sebuah adegan dalam permainan kita, tapi pertama mari kita lihat di dasar-dasar Game Editor.
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-1.jpg)
 
-As shown above, the Game Editor is split into three sections.
+Seperti ditunjukkan di atas, Game Editor terbagi menjadi tiga bagian.
 
-1. In the section at the left of the screen is the ‘Tools Area’ and contains the components and resources that we’ll use to build up the game.
-2. The middle section of the Game Editor is the ‘Scene Editor’. Moving from top down, this area shows the building blocks (components) of the game.
-3. The right section is the ‘Settings Area’ and is used to set the settings of the components in the Scene Area.
-4. To the top right is the ‘Icons Area‘. This area holds important icons that are used to adjust the overall game settings, and save and preview projects.
+1. Pada bagian di sebelah kiri layar adalah 'Area Alat' dan berisi komponen dan sumber daya yang akan kita gunakan untuk membangun permainan.
+2. Bagian tengah Game Editor adalah 'Scene Editor'. Bergerak dari atas ke bawah, area ini menunjukkan blok bangunan (komponen) permainan.
+3. Bagian kanan adalah 'Area Pengaturan' dan digunakan untuk mengatur pengaturan komponen di Scene Area.
+4. Ke kanan atas adalah 'Area Ikon'. Area ini memegang ikon penting yang digunakan untuk menyesuaikan keseluruhan pengaturan permainan, dan menyimpan dan mempratinjau proyek.
 
-The process of creating a game proceeds by working across the Tools Area, Scene Editor, and Settings Area. As you’ll see, they’re pretty intuitive to pick up and use.
+Proses pembuatan game berlanjut dengan bekerja di Tools Area, Scene Editor, dan Settings Area. Seperti yang akan Anda lihat, mereka cukup intuitif untuk digunakan dan digunakan.
 
-# Previewing A Game
+# Preview Permainan
 
-New game projects always start with a simple sample game in place. Let’s go ahead and take a look at the sample game that was created when our new project. To preview the game, click the Preview button in the Icons Area.
+Proyek permainan baru selalu dimulai dengan permainan contoh sederhana. Mari kita pergi ke depan dan melihat permainan sampel yang dibuat saat proyek baru kita. Untuk melihat pratinjau permainan, klik tombol Pratinjau di Area Ikon.
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-2.jpg)
 
-What happened? Did a window open and the game start?
+Apa yang terjadi? Apakah jendela terbuka dan permainannya mulai?
 
-You can use the Preview function at any time to check how your work-in-progress game is coming along.
+Anda dapat menggunakan fungsi Pratinjau kapan saja untuk memeriksa bagaimana permainan dalam proses Anda berjalan.
 
-# Adding and Editing Scenes
+# Menambahkan dan Mengedit Adegan
 
-Let’s customize the sample game.
+Mari kita sesuaikan permainan sampel.
 
-First, delete the existing Text component in Scene Editor by clicking the X button at the top right of the Text component.
+Pertama, hapus komponen Teks yang ada di Scene Editor dengan mengklik tombol X di kanan atas komponen Teks.
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-3.jpg)
 
-Then, drag and drop a new Text component from the Tools Area on the left of the Scene Editor as below.
+Kemudian, seret dan lepaskan komponen Teks baru dari Area Alat di sebelah kiri Editor Scene seperti di bawah ini.
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-4.jpg)
 
