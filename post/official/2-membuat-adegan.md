@@ -39,54 +39,54 @@ Kemudian, seret dan lepaskan komponen Teks baru dari Area Alat di sebelah kiri E
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-4.jpg)
 
-Now we have a new area to add text in the Scene Area. This is where we’ll enter some dialogue for our sample game. Expand the Text component by pressing the down arrow to the left of the X on right hand side and enter the below text into the Text area.
+Sekarang kita memiliki area baru untuk menambahkan teks di Scene Area. Di sinilah kita akan memasuki beberapa dialog untuk permainan sampel kita. Perluas komponen Teks dengan menekan panah ke bawah di sebelah kiri X di sisi kanan dan masukkan teks di bawah ini ke area Teks.
 
-It was Thursday lunch break.
-I’d just finished eating my lunch and was feeling nicely sleepy.
-–Yawn- Sleepy…
-I think I’ll have a little nap.
-Just as I’d laid my head on my desk and was falling into the land of Nod…
-#?
-HEY, WAKE UP!!!!
-#
-What the?!
+> It was Thursday lunch break.
+> I’d just finished eating my lunch and was feeling nicely sleepy.
+> –Yawn- Sleepy…
+> I think I’ll have a little nap.
+> Just as I’d laid my head on my desk and was falling into the land of Nod…
+> #?
+> HEY, WAKE UP!!!!
+> #
+> What the?!
 
-Here’s how it should look in the Scene Editor:
+Begini bagaimana seharusnya terlihat di Scene Editor:
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-6.jpg)
 
-At this point, let’s preview our game and see how it looks… but before we do, we have to save the project.
+Pada titik ini, mari kita lihat dulu permainan kita dan lihat tampilannya ... tapi sebelum melakukannya, kita harus menyelamatkan proyek.
 
-Click the Save Project button in the Icons Area.
+Klik tombol Save Project di Area Ikon.
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-5.jpg)
 
-After saving, press the Preview button in Icons Area.
+Setelah menyimpan, tekan tombol Preview di Icons Area.
 
-Did you see the new dialogue we just added in the game? This is how we build up a story. Easy, right?
+Apakah Anda melihat dialog baru yang baru saja kita tambahkan dalam permainan? Begitulah cara kita membangun sebuah cerita. Mudah kan?
 
 _Tip_
 
-You can use the below shortcuts to save and preview your games.
-Save：Ctrl + s (Command+s for Mac)
-Preview：Ctrl + p (Command+p for Mac ）
+Anda dapat menggunakan cara pintas di bawah ini untuk menyimpan dan melihat pratinjau permainan Anda.
+Simpan: Ctrl + s (Command + s untuk Mac)
+Preview: Ctrl + p (Command + p untuk Mac)
 
-# Changing the Order in the Scene Editor
+# Mengubah Order di Scene Editor
 
-Finally, let’s take an in-depth look at how to move components around in the Scene Section.
+Akhirnya, mari kita lihat secara mendalam bagaimana memindahkan komponen di sekitar Scene Section.
 
-Ready? Drag and drop the components in the Scene Section to move them up or down. That’s all there is to it! 
+Siap? Seret dan lepaskan komponen di Scene Screen untuk memindahkannya ke atas atau ke bawah. Itu saja yang ada untuk itu!
 
 ![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-7.jpg)
 
 _Tip_
 
-Use the ‘Expand All’ (downward arrow) button at the top right of the Scene Editor to expand all of the components. When all components are expanded, use the same ‘Collapse All’ button in the same location to collapse all components.
+Gunakan tombol 'Expand All' (panah ke bawah) di kanan atas Scene Editor untuk memperluas semua komponen. Bila semua komponen diperluas, gunakan tombol 'Tutup Semua' yang sama di lokasi yang sama untuk menutup semua komponen.
 
-You can also expand individual components by using the Expand button on the title bar of the component or by double clicking the title bar.
+Anda juga dapat memperluas komponen individual dengan menggunakan tombol Perluas pada bilah judul komponen atau dengan mengklik dua kali bilah judul.
 
-_Important_
+_Penting_
 
-Use the #(sharp) sign in the text area of Text components to display the name of who’s speaking the dialogue in the message window. If you want leave the name area blank, just use the # sign by itself and nothing will be displayed.
+Gunakan tanda # (tajam) di area teks komponen Teks untuk menampilkan nama siapa yang berbicara dialog di jendela pesan. Jika Anda ingin membiarkan nama kosong, cukup gunakan tanda # dengan sendirinya dan tidak ada yang akan ditampilkan.
 
-Time to move onto the next exciting installment of our tutorial where we’ll introduce a character to our scene!
+Waktu untuk pindah ke angsuran berikutnya dari tutorial kami di mana kami akan memperkenalkan karakter ke tempat kejadian kami!
