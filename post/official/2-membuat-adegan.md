@@ -6,7 +6,7 @@ layout: default
 
 In this chapter we’ll see how to create a scene in our game, but first let’s take a look at over the basics of the Game Editor.
 
-t2-1
+![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-1.jpg)
 
 As shown above, the Game Editor is split into three sections.
 
@@ -21,7 +21,7 @@ The process of creating a game proceeds by working across the Tools Area, Scene 
 
 New game projects always start with a simple sample game in place. Let’s go ahead and take a look at the sample game that was created when our new project. To preview the game, click the Preview button in the Icons Area.
 
-t2-2
+![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-2.jpg)
 
 What happened? Did a window open and the game start?
 
@@ -33,11 +33,11 @@ Let’s customize the sample game.
 
 First, delete the existing Text component in Scene Editor by clicking the X button at the top right of the Text component.
 
-t2-3
+![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-3.jpg)
 
 Then, drag and drop a new Text component from the Tools Area on the left of the Scene Editor as below.
 
-t2-4
+![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-4.jpg)
 
 Now we have a new area to add text in the Scene Area. This is where we’ll enter some dialogue for our sample game. Expand the Text component by pressing the down arrow to the left of the X on right hand side and enter the below text into the Text area.
 
@@ -53,13 +53,13 @@ What the?!
 
 Here’s how it should look in the Scene Editor:
 
-t2-6
+![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-6.jpg)
 
 At this point, let’s preview our game and see how it looks… but before we do, we have to save the project.
 
 Click the Save Project button in the Icons Area.
 
-t2-5
+![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-5.jpg)
 
 After saving, press the Preview button in Icons Area.
 
@@ -75,9 +75,9 @@ Preview：Ctrl + p (Command+p for Mac ）
 
 Finally, let’s take an in-depth look at how to move components around in the Scene Section.
 
-Ready? Drag and drop the components in the Scene Section to move them up or down. That’s all there is to it! 🙂
+Ready? Drag and drop the components in the Scene Section to move them up or down. That’s all there is to it! 
 
-t2-7
+![](http://tyranobuilder.com/wp-content/uploads/2015/03/t2-7.jpg)
 
 _Tip_
 
@@ -85,9 +85,8 @@ Use the ‘Expand All’ (downward arrow) button at the top right of the Scene E
 
 You can also expand individual components by using the Expand button on the title bar of the component or by double clicking the title bar.
 
-tip-expand
+_Important_
 
-Important
 Use the #(sharp) sign in the text area of Text components to display the name of who’s speaking the dialogue in the message window. If you want leave the name area blank, just use the # sign by itself and nothing will be displayed.
 
 Time to move onto the next exciting installment of our tutorial where we’ll introduce a character to our scene!
